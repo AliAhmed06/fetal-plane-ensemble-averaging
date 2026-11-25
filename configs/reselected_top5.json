@@ -1,0 +1,6 @@
+{
+  "META_CSV": "/kaggle/input/fetal-planes-db/FETAL_PLANES_DB_data.csv",
+  "PRED_DIR": "/kaggle/working/natural_preds",
+  "OUT_DIR": "/kaggle/working/revision_outputs_reselected",
+  "TOP5": ["tf_efficientnet_b5_ns", "efficientnet_b0", "resnet50", "inception_resnet_v2", "resnext50_32x4d"]
+}
